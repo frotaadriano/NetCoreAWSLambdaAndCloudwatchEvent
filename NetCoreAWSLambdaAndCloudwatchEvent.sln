@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAWSLambdaAndCloudwatchEvent", "NetCoreAWSLambdaAndCloudwatchEvent\NetCoreAWSLambdaAndCloudwatchEvent.csproj", "{6276BFFC-E856-43E2-B2C8-3C761C96D8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6276BFFC-E856-43E2-B2C8-3C761C96D8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6276BFFC-E856-43E2-B2C8-3C761C96D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6276BFFC-E856-43E2-B2C8-3C761C96D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6276BFFC-E856-43E2-B2C8-3C761C96D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C1A9C2-79F0-455D-A795-70452AD63475}
+	EndGlobalSection
+EndGlobal
